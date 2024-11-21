@@ -1,7 +1,7 @@
 ## Hi, I’m @Muhammmad-Hassan
 
-- 👀 I’m interested in web development, particularly using the MERN stack (MongoDB, Express.js, React, Node.js).
-- 🌱 I’m currently learning advanced features of Front-end applications.
+- 👀 I’m interested in web development.
+- 🌱 I’m actively working as react developer and expanding my knowledge of advanced features in server applications.
 - 💞️ I’m looking to collaborate on projects that involve creating animative, visually appealing, and highly functional websites using the REACT.
 - 📫 How to reach me: hassankhan5uy99@gmail.com | https://www.linkedin.com/in/muhammad-hassan-76a17b272 
 - 😄 Pronouns: he/him
